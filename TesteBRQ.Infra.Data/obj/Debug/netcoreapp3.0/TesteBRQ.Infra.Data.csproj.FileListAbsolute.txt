@@ -1,0 +1,11 @@
+C:\projetos\TesteBRQ\TesteBRQ.Infra.Data\bin\Debug\netcoreapp3.0\TesteBRQ.Infra.Data.deps.json
+C:\projetos\TesteBRQ\TesteBRQ.Infra.Data\bin\Debug\netcoreapp3.0\TesteBRQ.Infra.Data.dll
+C:\projetos\TesteBRQ\TesteBRQ.Infra.Data\obj\Debug\netcoreapp3.0\TesteBRQ.Infra.Data.csprojAssemblyReference.cache
+C:\projetos\TesteBRQ\TesteBRQ.Infra.Data\obj\Debug\netcoreapp3.0\TesteBRQ.Infra.Data.AssemblyInfoInputs.cache
+C:\projetos\TesteBRQ\TesteBRQ.Infra.Data\obj\Debug\netcoreapp3.0\TesteBRQ.Infra.Data.AssemblyInfo.cs
+C:\projetos\TesteBRQ\TesteBRQ.Infra.Data\bin\Debug\netcoreapp3.0\TesteBRQ.Infra.Data.pdb
+C:\projetos\TesteBRQ\TesteBRQ.Infra.Data\bin\Debug\netcoreapp3.0\TesteBRQ.Domain.dll
+C:\projetos\TesteBRQ\TesteBRQ.Infra.Data\bin\Debug\netcoreapp3.0\TesteBRQ.Domain.pdb
+C:\projetos\TesteBRQ\TesteBRQ.Infra.Data\obj\Debug\netcoreapp3.0\TesteBRQ.Infra.Data.csproj.CopyComplete
+C:\projetos\TesteBRQ\TesteBRQ.Infra.Data\obj\Debug\netcoreapp3.0\TesteBRQ.Infra.Data.dll
+C:\projetos\TesteBRQ\TesteBRQ.Infra.Data\obj\Debug\netcoreapp3.0\TesteBRQ.Infra.Data.pdb
